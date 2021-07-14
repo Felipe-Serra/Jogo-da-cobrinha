@@ -1,3 +1,13 @@
 body{
-    background-image: url(img/background.jpg)
+    background-image: url(img/background.jpg);
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.topo {
+    background-color: #99CC32
 }
